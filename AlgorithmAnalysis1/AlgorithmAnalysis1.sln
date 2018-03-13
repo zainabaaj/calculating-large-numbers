@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateLargeNumber", "CalculateLargeNumber\CalculateLargeNumber.csproj", "{218D57DB-174A-4C3B-A5BB-346066DFD6B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{3A2481AA-FD70-46A9-BA5C-DB1DD2475ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218D57DB-174A-4C3B-A5BB-346066DFD6B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218D57DB-174A-4C3B-A5BB-346066DFD6B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218D57DB-174A-4C3B-A5BB-346066DFD6B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218D57DB-174A-4C3B-A5BB-346066DFD6B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A2481AA-FD70-46A9-BA5C-DB1DD2475ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2481AA-FD70-46A9-BA5C-DB1DD2475ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2481AA-FD70-46A9-BA5C-DB1DD2475ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2481AA-FD70-46A9-BA5C-DB1DD2475ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

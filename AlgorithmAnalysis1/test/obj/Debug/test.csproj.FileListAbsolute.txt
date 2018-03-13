@@ -1,0 +1,8 @@
+c:\users\zaina\onedrive\documents\visual studio 2015\Projects\AlgorithmAnalysis1\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\zaina\onedrive\documents\visual studio 2015\Projects\AlgorithmAnalysis1\test\bin\Debug\test.dll
+c:\users\zaina\onedrive\documents\visual studio 2015\Projects\AlgorithmAnalysis1\test\bin\Debug\test.pdb
+c:\users\zaina\onedrive\documents\visual studio 2015\Projects\AlgorithmAnalysis1\test\bin\Debug\CalculateLargeNumber.exe
+c:\users\zaina\onedrive\documents\visual studio 2015\Projects\AlgorithmAnalysis1\test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\zaina\onedrive\documents\visual studio 2015\Projects\AlgorithmAnalysis1\test\bin\Debug\CalculateLargeNumber.pdb
+c:\users\zaina\onedrive\documents\visual studio 2015\Projects\AlgorithmAnalysis1\test\obj\Debug\test.dll
+c:\users\zaina\onedrive\documents\visual studio 2015\Projects\AlgorithmAnalysis1\test\obj\Debug\test.pdb

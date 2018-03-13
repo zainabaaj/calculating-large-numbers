@@ -1,0 +1,6 @@
+c:\users\zaina\onedrive\documents\visual studio 2015\Projects\AlgorithmAnalysis1\CalculateLargeNumber\bin\Debug\CalculateLargeNumber.exe.config
+c:\users\zaina\onedrive\documents\visual studio 2015\Projects\AlgorithmAnalysis1\CalculateLargeNumber\bin\Debug\CalculateLargeNumber.exe
+c:\users\zaina\onedrive\documents\visual studio 2015\Projects\AlgorithmAnalysis1\CalculateLargeNumber\bin\Debug\CalculateLargeNumber.pdb
+c:\users\zaina\onedrive\documents\visual studio 2015\Projects\AlgorithmAnalysis1\CalculateLargeNumber\obj\Debug\CalculateLargeNumber.csprojResolveAssemblyReference.cache
+c:\users\zaina\onedrive\documents\visual studio 2015\Projects\AlgorithmAnalysis1\CalculateLargeNumber\obj\Debug\CalculateLargeNumber.exe
+c:\users\zaina\onedrive\documents\visual studio 2015\Projects\AlgorithmAnalysis1\CalculateLargeNumber\obj\Debug\CalculateLargeNumber.pdb
